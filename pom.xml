@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jsblocks</artifactId>
-    <version>0.3.1-SNAPSHOT</version>
+    <version>0.3.1</version>
     <name>jsblocks</name>
     <description>WebJar for jsblocks</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/jsblocks</url>
         <connection>scm:git:https://github.com/webjars/jsblocks.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jsblocks.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jsblocks-0.3.1</tag>
     </scm>
 
     <build>
